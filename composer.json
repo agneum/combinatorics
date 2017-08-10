@@ -1,0 +1,19 @@
+{
+  "name": "agneum/combinatorics",
+  "description": "Generate permutations with repetitions",
+  "license": "MIT",
+  "keywords": ["permutation", "repetition"],
+  "authors": [
+    {
+      "name": "Artem Kartasov",
+      "email": "agneum@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "": "src"
+    }
+  }
+}
